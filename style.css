@@ -1,0 +1,17 @@
+.p
+{
+    font-size: 60px;
+    color: blue;
+
+}
+
+.box1
+{
+    height: 400px;
+    width: 600px;
+    background-color: darkgray;
+    margin: 10px;
+    box-sizing: border-box;
+    padding-top: 100px;
+    padding-left: 100px;
+}
